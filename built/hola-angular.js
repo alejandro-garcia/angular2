@@ -34,7 +34,7 @@ System.register(['@angular/core', '@angular/platform-browser-dynamic'], function
                 ], HolaAngularComponent);
                 return HolaAngularComponent;
             }());
-            platform_browser_dynamic_1.bootstrap(HolaAngularComponent); //Componente es bootstrapped!
+            platform_browser_dynamic_1.bootstrap(HolaAngularComponent);
         }
     }
 });

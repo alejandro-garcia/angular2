@@ -7,7 +7,7 @@ import { bootstrap } from '@angular/platform-browser-dynamic';
 class HolaAngularComponent{
     saludo: string;
     constructor(){
-        this.saludo = '¡Hola Angular 2!';
+        this.saludo = '¡Hola Angular 2...!';
     }
 }
 bootstrap(HolaAngularComponent); 
